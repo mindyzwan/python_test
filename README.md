@@ -15,3 +15,5 @@ It is recommended to use a virtualenv for any projects.
 3. Do your work on the branch
 4. Push
 
+## Run Tests
+python -m unittest test_main
